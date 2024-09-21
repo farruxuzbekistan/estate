@@ -159,7 +159,7 @@ const Footer = () => {
             </ul>
           </div>
           <p style={{ color: "#696969" }}>
-            © Homyz. All Rights Reserved {currentYear}.
+            © Modera Towers. All Rights Reserved {currentYear}.
           </p>
           <p className="text-white">
             Developed by{" "}
